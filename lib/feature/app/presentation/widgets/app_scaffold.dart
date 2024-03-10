@@ -50,7 +50,7 @@ class AppScaffold extends StatelessWidget {
       onEndDrawerChanged: onEndDrawerChanged,
       bottomNavigationBar: bottomNavigationBar,
       bottomSheet: bottomSheet,
-      backgroundColor: backgroundColor,
+      backgroundColor: Color(0xff0B0D1D),
       resizeToAvoidBottomInset: resizeToAvoidBottomInset,
       primary: primary,
       drawerDragStartBehavior: drawerDragStartBehavior,

@@ -21,7 +21,7 @@ class WelcomeScreen extends StatelessWidget {
           child: Column(
             children: [
 
-              const AppSvgPicture(Assets.svgLogoApp),
+              //const AppSvgPicture(Assets.svgLogoApp),
               165.verticalSpace,
               ElevatedButton(
                   onPressed: (){

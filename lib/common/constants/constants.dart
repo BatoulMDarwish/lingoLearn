@@ -1,3 +1,3 @@
 import 'package:flutter/material.dart';
 
-const Size designSize = Size(360, 800);
+const Size designSize = Size(430, 932);

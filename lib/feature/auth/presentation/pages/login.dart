@@ -27,7 +27,7 @@ class _LoginPageState extends State<LoginPage> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Center(child: const AppSvgPicture(Assets.svgLogoApp)),
+
             40.verticalSpace,
             AppTextField(
               name: 'email',

@@ -37,7 +37,7 @@ class _SplashPageState extends State<SplashPage> {
         child: Center(
           child: Column(
             children: [
-              AppSvgPicture(Assets.svgLogoApp),
+              AppSvgPicture(Assets.assetsImageLogo),
               10.verticalSpace,
               LoadingAnimationWidget.flickr(
                 leftDotColor: context.colorScheme.onPrimary,

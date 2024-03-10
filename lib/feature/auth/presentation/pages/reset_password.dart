@@ -25,7 +25,7 @@ class _ResetPasswordPageState extends State<ResetPasswordPage> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Center(child: AppSvgPicture(Assets.svgLogoApp)),
+            //const Center(child: AppSvgPicture(Assets.svgLogoApp)),
             40.verticalSpace,
             AppTextField(
               name: 'code',

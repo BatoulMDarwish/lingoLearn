@@ -3,18 +3,18 @@ import '../model/onboarding_model.dart';
 
 List<OnBoardingModel> OnBoardingList=[
   OnBoardingModel(
-      title: "AppString.welcome",
-      body: " توفير بيئة تعليمية متكاملةتسهل على األفراد والمتعلمين اكتساب المهارات البرمجية بسهولة وفعالية",
-      image:'assets/image/mm.png'
+      title: "assets/image/button3.svg",
+      body: " يوفر التطبيق مجموعة متنوعة من الموارد التعليمية التفاعلية التي تساعد على فهم المفاهيم بشكل مباشر وتطبيقها على الفور",
+      image:'assets/image/boy.png'
   ),
   OnBoardingModel(
-      title:  "AppString.welcome",
-      body: "تتضمن هذه المنصة مجموعة متنوعة من لغات البرمجة الشهيرة والمطلوبة في سوق العمل،",
-      image:'assets/image/rafiki.png'
+      title:  "assets/image/button2.svg",
+      body: "يتضمن التطبيق نظام تحفيزي يستند إلى النقاط والمستويات والجوائز، عند إكمال تحديات البرمجة أو تحقيق الأهداف المحدد",
+      image:'assets/image/Vector.png'
   ),
   OnBoardingModel(
-      title:  "AppString.welcome",
-      body: " إمكانية التفاعل ضمن هذه المنصة من خاللاختبارات ومسابقات على مستوى مستخدمي المنصة",
-      image:"assets/image/amico.png"
+      title:  "assets/image/button1.svg",
+      body: "يوفر التطبيق دعمًا لعدة لغات بما في ذلك واجهة المستخدم والمحتوى التعليمي، لضمان وصول أوسع للجمهور العالمي.",
+      image:"assets/image/Frame.png"
   ),
 ];

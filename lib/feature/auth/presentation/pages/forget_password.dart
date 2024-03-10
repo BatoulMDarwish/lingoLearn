@@ -26,7 +26,7 @@ class _ForgetPasswordPageState extends State<ForgetPasswordPage> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Center(child: const AppSvgPicture(Assets.svgLogoApp)),
+           // Center(child: const AppSvgPicture(Assets.svgLogoApp)),
             40.verticalSpace,
             AppTextField(
               name: 'email',

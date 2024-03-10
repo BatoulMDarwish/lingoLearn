@@ -24,7 +24,7 @@ class _SignUpPageState extends State<SignUpPage> {
         child: Column(
           children: [
 
-            const AppSvgPicture(Assets.svgLogoApp),
+         //   const AppSvgPicture(Assets.svgLogoApp),
             40.verticalSpace,
             AppTextField(
                 name: 'email',

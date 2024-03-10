@@ -38,7 +38,7 @@ abstract class AppColors {
   );
 
   static const int _greyPrimaryValue = 0xff989898;
-  static const Color navGray=Color(0xFFF5F5F5);
+  static const Color navGray=Color(0xFFCCCCCC);
   static const Color whiteGrey=Color(0xffF0F0F0);
   static const Color fillTextField=Color(0xffF6F6F6);
   static const Color redOpacity=Color(0xffffd9d8);
