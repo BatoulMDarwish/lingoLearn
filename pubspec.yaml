@@ -108,6 +108,11 @@ flutter:
   assets:
     - assets/image/logo.svg
     - assets/image/
+    - assets/image/background_scaffold.svg
+    - assets/image/back.png
+    - assets/image/add_image.png
+    - assets/image/sign_b.png
+    - assets/choose_la.png
 
   fonts:
     - family: Knewave
